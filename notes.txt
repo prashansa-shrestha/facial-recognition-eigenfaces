@@ -1,0 +1,14 @@
+Facial Recognition System using Eigenfaces, and Classification of faces based on reduced features
+
+This task also emphasizes on increasing the efficiency of the system.
+This will be done using eigenfaces that alllow reduction of the dimensions of the images, while retaining key features.
+
+Procudeure:
+The LFW(Labeled faces in the wild) dataset has been used to build the facial recognition system.
+Eigenfaces of the dataset has been computed as below:
+>The covariance matrix of the image data was constructed
+>The eigenvectors corresponding to 
+
+
+
+
