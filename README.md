@@ -1,4 +1,4 @@
-
+# Facial Recognition Using Eigenfaces
 
 This project implements the classic *“Face Recognition Using Eigenfaces”* approach proposed by M.A. Turk and A.P. Pentland (1991).
 It applies **Principal Component Analysis (PCA)** for feature extraction and **k-Nearest Neighbors (kNN)** for classification, enabling efficient and interpretable facial recognition.
